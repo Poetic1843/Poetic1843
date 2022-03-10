@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Poetic1843
 - 👀 I’m interested in Mechanical Engineering.
 - 🌱 I’m currently learning Python and Java.
-- 💞️ I’m working on the Esentrix Network.
+- 💞️ I’m working on winning a world championship in Vex Robotics.
 - 📫 DM me on discord at @Poetic#8793 !
 
 <!---
