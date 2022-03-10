@@ -8,8 +8,8 @@ I have absoluetly no useful projects and am not committed to any either. If you 
 
 ## Links/Contacts
 
-[Vex Robotics Competition]: https://www.vexrobotics.com/v5/competition/vrc-current-game
-[Discord]: https://discord.com/
+Vex Robotics Competition: https://www.vexrobotics.com/v5/competition/vrc-current-game
+Discord: https://discord.com/ - @Poetic#1843
 Team 15442C
 
 
